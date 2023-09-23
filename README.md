@@ -1,1 +1,3 @@
-# kanagawa-paper
+# Kanagawa Paper
+
+![Kanagawa](assets/logo.png)
