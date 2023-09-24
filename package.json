@@ -3,7 +3,8 @@
   "displayName": "Kanagawa Paper",
   "description": "Kanagawa port for VS Code with a more muted color palette",
   "version": "1.0.0",
-  "publisher": "sho-87",
+  "publisher": "SimonHo",
+  "license": "SEE LICENSE IN LICENSE.txt",
   "icon": "assets/icon.png",
   "repository": {
     "type": "git",
@@ -19,11 +20,9 @@
   "keywords": [
     "kanagawa",
     "theme",
-    "muted",
     "dark",
-    "clean",
-    "elegant",
-    "calm"
+    "muted",
+    "pastel"
   ],
   "badges": [],
   "contributes": {
